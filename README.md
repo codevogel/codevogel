@@ -1,6 +1,6 @@
 # Hi! 🐦
 
-## My name is CodevVogel.
+## My name is CodeVogel.
 
 I make **games** 🕹️ and build **software** 💻. Visit my website at [codevogel.com](https://codevogel.com/)
 
