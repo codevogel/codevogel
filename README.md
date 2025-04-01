@@ -1,10 +1,10 @@
-#Hi!
+# Hi! 🐦
 
 ## My name is CodevVogel.
 
-I make **games** and build **software**. Visit my website at [codevogel.com](https://codevogel.com/)
+I make **games** 🕹️ and build **software** 💻. Visit my website at [codevogel.com](https://codevogel.com/)
 
-I am currently employed as a teacher Creative Software Development at [Grafisch Lyceum Utrecht](https://www.glu.nl/).
+I am currently employed as a teacher Creative Software Development at [Grafisch Lyceum Utrecht](https://www.glu.nl/) 👨‍🏫.
 Check out some of [my projects](https://codevogel.com/projects/)!
 
 For now, here's a fun tool I wrote: [Project Level Shortcuts](https://github.com/codevogel/pls).
